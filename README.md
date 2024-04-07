@@ -89,5 +89,11 @@ Project goal:
 The analysis demonstrates the profound impact of adjusting key factors on turnover rates. By reducing average worked time, increasing age, total working years, and tenure, turnover rate decreased significantly from about 16% to nearly 3%. This underscores the importance of tailored retention strategies focusing on employee engagement and career development. Moving forward, continuous evaluation and adaptation of these strategies are crucial for sustaining employee retention and organizational success.
 
 ## Contributors <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
+<<<<<<< HEAD
 - Mohammed Reda Guellati
 - Zakaria Ali Zouaoui
+=======
+- Zamouche Nadir
+- Mohammed Reda Guellati
+
+>>>>>>> 60dec6995fce4a39826c31708038e6b3b9cd9013
